@@ -1,4 +1,4 @@
-import type { Task } from '../types';
+import type { Task } from '../../types';
 
 export const sampleTasks: Task[] = [
   { id: 's1', title: 'Fix login crash on Android 14', projectId: 'p1', assigneeId: 'm2', priority: 'high', dueDate: '2026-11-05', completed: false },

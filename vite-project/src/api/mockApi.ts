@@ -1,4 +1,4 @@
-import type { Member, Project } from '../types';
+import type { Member, Project } from '../../types';
 
 const LATENCY_MS = 700;
 const FAILURE_RATE = 0.2;
